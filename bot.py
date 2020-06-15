@@ -1,4 +1,3 @@
- # Meet Pybot: your friend
 
 import nltk
 import warnings
