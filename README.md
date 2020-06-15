@@ -7,8 +7,11 @@ ChatBot-For-Answering-Python using NLTK.
 -sklearn.feature_extraction.text.CountVectorizer : Convert a collection of text documents to a matrix of token counts
 
 For Installation :
+
 Downloading and installing NLTK
+
 Install NLTK: run pip install nltk
+
 Test installation: run python then type import nltk
 
 =============================================================================
