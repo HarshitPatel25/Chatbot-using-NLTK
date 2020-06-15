@@ -11,5 +11,7 @@ Downloading and installing NLTK
 Install NLTK: run pip install nltk
 Test installation: run python then type import nltk
 
+=============================================================================
+
 - Proper documentation of every used functions are described.
-- 
+- You can change the appearance of GUI using "options" in navigation bar.
